@@ -13,6 +13,6 @@ public class SimpleTest {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
     }
 }
